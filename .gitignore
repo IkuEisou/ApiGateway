@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+auth/src/tool/authentication-api-cli/authentication-api-cli
+auth/src/auth
+.vscode/launch.json
